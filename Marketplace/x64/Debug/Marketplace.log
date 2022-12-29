@@ -1,0 +1,6 @@
+﻿  cart.cpp
+  customer.cpp
+  product.cpp
+  Seller.cpp
+  Generating Code...
+C:\Users\Abdelrahman\source\repos\Marketplace\Marketplace\Seller.cpp(36): error C4716: 'Seller::add_product': must return a value
